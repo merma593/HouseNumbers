@@ -1,9 +1,7 @@
 
 def summation(n1,n2):
-    summ = 0
-    for i in range(n1, n2):
-        summ +=i
-    return(summ)
+    a = sum(xrange(n1,n2))
+    return a
 
 
 def contfractions(n):
