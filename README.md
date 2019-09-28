@@ -1,4 +1,4 @@
-#COSC349-Assignment1
+
 
 Problem Description:
 
